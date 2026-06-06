@@ -1,15 +1,15 @@
 # Cyber-Project
 
 # - Ethical Disclaimer
-# All work in this repository was performed:
+### All work in this repository was performed:
 
-# In a controlled environment
+### In a controlled environment
 
-# For academic and research purposes
+### For academic and research purposes
 
-# Without targeting any real systems
+### Without targeting any real systems
 
-### Cybersecurity must always be practiced responsibly.
+## Cybersecurity must always be practiced responsibly.
 
 # CSCS321A — Advanced Web Security
 
