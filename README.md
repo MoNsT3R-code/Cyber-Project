@@ -1,8 +1,15 @@
 ## Cyber-Project
-### ⚠️ Ethical Disclaimer: All work in this repository was performed in a strictly controlled environment for academic and research purposes without targeting any real-world production systems. Cybersecurity must always be practiced responsibly and legally.
+
+This repository contains my complete coursework, execution methodologies, structural write-ups, and validation proof-of-concepts for the Advanced Web Security track. It features itemized solutions for 32 vulnerability testing targets compiled from the PortSwigger Web Security Academy ecosystem.
+---
+## ⚠️ Security Disclaimer & Warning
+
+> [!WARNING]
+> **EDUCATIONAL PURPOSES ONLY:** The materials, scripts, and methodologies documented in this repository are intended solely for academic research, authorized penetration testing, and defensive security posture development. 
+> 
+> Unauthorized access to remote systems, networks, or binaries without explicit, written legal consent from the resource owner is strictly illegal and punishable under international cybercrime laws. The author assumes absolutely no liability for misuse, collateral damage, or illegal execution of these proof-of-concept techniques. **Always test exclusively inside isolated, sandboxed laboratory environments.**
 
 ## CSCS321A — Advanced Web Security
-This repository contains my complete coursework, execution methodologies, structural write-ups, and validation proof-of-concepts for the Advanced Web Security track. It features itemized solutions for 32 vulnerability testing targets compiled from the PortSwigger Web Security Academy ecosystem.
 
 ### 📍 Quick Navigation
 * [🌐 Project Overview](#-project-overview)
